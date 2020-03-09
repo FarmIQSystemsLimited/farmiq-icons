@@ -1,0 +1,7 @@
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <title>X</title>
+  <g>
+    <path d="M18,2H17V1a1,1,0,0,0-2,0V2H5V1A1,1,0,0,0,3,1V2H2A2,2,0,0,0,0,4V18a2,2,0,0,0,2,2H18a2,2,0,0,0,2-2V4A2,2,0,0,0,18,2Zm0,16H2V8H18ZM18,6H2V4H18Z"/>
+    <rect x="12" y="12" width="4" height="4"/>
+  </g>
+</svg>
